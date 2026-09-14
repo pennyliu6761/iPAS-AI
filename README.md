@@ -10,4 +10,4 @@
 - [第4章_iPAS AI(初級)考古題精析](./Testbank/第四章_iPAS考古題精析.md)
 - [第5章_iPAS AI(初級)考古題精析](./Testbank/第五章_iPAS考古題精析.md)
 - [第6章_iPAS AI(初級)考古題精析](./Testbank/第六章_iPAS考古題精析.md)
-- [第7章_iPAS AI(初級)考古題精析](./Testbank/第七章_iPAS考古題精析.md)
+- [補充_iPAS AI(初級)考古題精析](./Testbank/補充章節_iPAS考古題精析.md)
